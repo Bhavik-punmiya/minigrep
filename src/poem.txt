@@ -1,0 +1,24 @@
+In the realm of code, where Rust does reign,
+A CLI app begins to take its name.
+With cargo's might and lib.rs in place,
+We venture forth, an eager coder’s chase.
+
+Commands we craft, each line a sturdy beam,
+Building bridges in the coder’s dream.
+Tests are written, integration found,
+In directories where logic’s bound.
+
+Functions polished, modules finely tuned,
+Errors handled, warnings overruled.
+With every build, our confidence grows,
+In Rust we trust, as our creation shows.
+
+A journey started with a simple line,
+cargo new, and now it’s time to shine.
+Through trials faced and triumphs met with glee,
+Our CLI app stands, in Rust, set free.
+
+So let the terminals echo our feat,
+A project done, a goal complete.
+In Rust we wrote, in Rust we trust,
+From first cargo to final robust.

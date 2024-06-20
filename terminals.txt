@@ -1,0 +1,3 @@
+Searching for terminals
+In file src/poem.txt
+So let the terminals echo our feat,
